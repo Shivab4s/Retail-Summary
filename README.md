@@ -8,6 +8,6 @@ I have attached a Simple high-level technical document and a Power BI dashboard 
 ![image](https://github.com/Shivab4s/Retail-Summary/assets/160829435/afc78753-b3a1-42db-b2c0-dc0fb967e4df)
 ![image](https://github.com/Shivab4s/Retail-Summary/assets/160829435/0e3ac678-3f7a-429d-8ad6-6d5950a51fa0)
 ![image](https://github.com/Shivab4s/Retail-Summary/assets/160829435/a43775fc-2f26-480c-91b8-e82a12077975)
-
+https://app.powerbi.com/view?r=eyJrIjoiOTUwMzMyOWItYTk5MC00Yjg0LWIzMTYtZTJmM2NhN2E4YTVjIiwidCI6IjM2MTkwYzNjLTU2NmEtNDExNy05YWY0LWFhN2I4MjE0NmI0OCJ9
 
 
