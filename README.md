@@ -15,3 +15,11 @@ https://app.powerbi.com/view?r=eyJrIjoiOTUwMzMyOWItYTk5MC00Yjg0LWIzMTYtZTJmM2NhN
 https://app.powerbi.com/view?r=eyJrIjoiOTUwMzMyOWItYTk5MC00Yjg0LWIzMTYtZTJmM2NhN2E4YTVjIiwidCI6IjM2MTkwYzNjLTU2NmEtNDExNy05YWY0LWFhN2I4MjE0NmI0OCJ9
 
 
+![image](https://github.com/Shivab4s/Retail-Summary/assets/160829435/86eceb5e-f31f-42d9-94d3-24cd690e6e9c)
+![image](https://github.com/Shivab4s/Retail-Summary/assets/160829435/4291dbfb-4604-4497-9269-0995f6aa4606)
+![image](https://github.com/Shivab4s/Retail-Summary/assets/160829435/5621a2e8-cf6b-4f5b-9bb8-37475822ca7a)
+
+
+
+
+
